@@ -1,4 +1,4 @@
-# ARA-PROJE
+# Bilgisayar Projesi ---->  ARA-PROJE  2019 2020 Güz Dönemi
 # DERİN ÖĞRENME YÖNTEMLERİ İLE MARKA İÇEREN NESNELERİN TESPİTİ VE BULANIKLAŞTIRILMASI
 
 Projemizde kullandığımız OpenLogo veri seti ve detaylı açıklamaları aşağıdaki linktedir.

@@ -1,4 +1,5 @@
-# Bilgisayar Projesi ---->  ARA-PROJE  2019 2020 Güz Dönemi
+# Bilgisayar Projesi ---->  ARA-PROJE  
+# 2019 2020 Güz Dönemi
 # DERİN ÖĞRENME YÖNTEMLERİ İLE MARKA İÇEREN NESNELERİN TESPİTİ VE BULANIKLAŞTIRILMASI
 
 Projemizde kullandığımız OpenLogo veri seti ve detaylı açıklamaları aşağıdaki linktedir.
@@ -44,8 +45,11 @@ https://s2.dosya.tc/server12/zga65g/inference_graph.rar.html
 
 Bütün kurulumları tamamaladıktan sonra sırasıyla aşağıdaki adımları uygulayınız:
 1-Anaonda prompt ekranını açınız
+
 2-Activate tensorflow1 yazarak enter tuşuna basınız
+
 3-cd C:\tensorflow1\models\research\object_detection yazarak dizine gidiniz.
+
 4-python Object_detection_video.py yazarak projemizi çalıştırmış olursunuz
 
 Bir arayüz açılır ve video seçmeniz beklenir.Video seçtikten sonra sistem videdoyu başlatır ve tespit ettiği markaları bulanıklaştırır.Bulanıklaştırılmış video
